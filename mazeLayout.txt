@@ -1,0 +1,89 @@
+MAZE LAYOUT 1
+  123456789012345678901
+1 #########!###########
+2 #O#O#OOO#OOO#OOOOOOO#
+3 #O#O#O#O#O#O#O#######
+4 #OOO#O#OOO#OOOOOOOOO#
+5 #O#O#O###########O#O#
+6 #O#OOO#O#OOOOO#O#O#O#
+7 #O#####O#O###O#O###O#
+8 #OOO#OOO#OOO#OOOOOOO#
+9 #O###O#####O###O###O# 
+0 #OOOOOOOOO#O#OOO#OOO#
+1 ###########E#########
+Min Step: 36
+
+MAZE LAYOUT 2
+  123456789012345678901
+1 #########!###########
+2 #OOO#OOOOOOOOOOO#OOO#
+3 #O#O###O###O#######O#
+4 #O#OOOOOOO#O#OOO#OOO#
+5 #O###O###O#O###O#O###
+6 #O#OOO#OOO#OOO#OOO#O#
+7 #O###O#####O#O#O#O#O#
+8 #O#O#O#OOO#O#O#O#OOO#
+9 #O#O###O#O###O#O#O###
+0 #OOOOOOO#OOO#OOO#OOO#
+1 ###########E#########
+Min Step: 36
+
+MAZE LAYOUT 3
+  123456789012345678901
+1 #########!###########
+2 #OOO#OOO#OOO#OOOOOOO#
+3 #O#O#O#O###O#O#####O#
+4 #O#OOO#OOO#OOO#OOO#O#
+5 #O###O###O#####O#O#O#
+6 #O#OOOOO#OOOOO#O#OOO#
+7 #O###O#O###O#O#####O#
+8 #O#O#O#OOO#O#OOOOOOO#
+9 #O#O#O###O#######O###
+0 #OOO#OOO#OOO#OOOOOOO#
+1 ##########E##########
+Min Step: 55
+
+MAZE LAYOUT 4
+  123456789012345678901
+1 #########!###########
+2 #OOO#O#OOOOOOOOOOOOO#
+3 #O#O#O#O###O#####O#O#
+4 #O#OOOOOOO#OOO#OOO#O#
+5 #O#O###########O#####
+6 #O#OOO#OOOOOOO#OOOOO#
+7 #####O#O#####O#O#O#O#
+8 #OOOOOOO#OOOOO#O#O#O#
+9 #O#######O#####O###O#
+0 #OOOOOOO#OOO#OOO#OOO#
+1 ###########E#########
+Min Step: 37
+
+MAZE LAYOUT 5
+  123456789012345678901
+1 #########!###########
+2 #OOO#OOOOO#OOOOOOOOO#
+3 #O#O#O#O###O###O###O#
+4 #O#OOO#OOO#O#O#OOO#O#
+5 #O#######O#O#O#O###O#
+6 #OOO#OOO#O#OOO#O#OOO#
+7 #O#O#O#O###O###O###O#
+8 #O#OOO#O#OOOOO#O#O#O#
+9 #O###O###O#####O#O#O#
+0 #OOO#OOOOO#OOOOO#OOO#
+1 ###########E#########
+Min Step: 56
+
+MAZE LAYOUT 6
+  123456789012345678901
+1 #########!###########
+2 #OOOOOOO#OOOOOOOOOOO#
+3 #O#####O#O###O#####O#
+4 #O#OOO#OOO#OOO#OOOOO#
+5 #O#O#O#########O###O#
+6 #O#O#O#OOOOO#OOOOO#O#
+7 #O#O#O#O###O#######O#
+8 #OOO#OOO#O#OOO#OOOOO#
+9 #O#####O#O###O###O###
+0 #OOO#OOOOO#OOO#OOOOO#
+1 ###########E#########
+Min Step: 48
