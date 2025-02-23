@@ -1,16 +1,7 @@
-# COMP2113_ENGG1340_A_2024 GROUP_4
+# The Maze🚶‍♂️‍➡️
 
-### THE MAZE 🥷🏻
+### Demo video 🎞️
 https://youtu.be/ByH3LpwpCQU
-
-## Team Members👥
-1. Chu Sung Ho (UID:3035756593)
-2. Ng Hadrien (UID: 3036220228)
-3. Po Tsoi Nam (UID:3036222367)
-4. Wong Chi Lok (UID:3035920962)
-5. Wong Tsz Ching (UID:3036224468)
-
-### Demo video
 
 ## Game Description🎮
 Welcome to "The Maze," an exciting and challenging 2D game that will test your wits, strategy, and survival skills! The game features a top-down view, players can see the maze layout and plan their route. Players will be given a labyrinthine structure from a starting point to a designated exit. The primary goal is to find your way from the starting point to the exit while avoiding the monsters`M` and dead-ends. Players navigate through a series of randomly selected mazes filled with twists, turns, and lurking monsters. Each level presents a unique challenge as the maze layouts and the monsters' placements are randomly generated, ensuring a fresh and unpredictable experience every time you play. But no worries! Pick up the sword `S` to kill the monsters and find yourself a way out. Can you conquer "The Maze" and emerge victorious?
